@@ -1,6 +1,7 @@
-# Remove raw data
+# Remove raw data, can be provided on request
 Granlund_data_anon_040422_v2.csv
 all_anon_120822_TOSHARE_.csv
+all_anon_120822_TOSHARE.csv
 
 # Ignore the statsmodels package
 statsmodels/
