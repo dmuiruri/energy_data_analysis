@@ -1,0 +1,5 @@
+# Remove raw data
+Granlund_data_anon_040422_v2.csv
+
+# Ignore the statsmodels package
+statsmodels/
